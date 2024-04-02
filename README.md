@@ -1,0 +1,1 @@
+GoFiberREST is a robust and efficient RESTful API developed using Go and the Fiber web framework. Designed with scalability, speed, and developer productivity in mind, GoFiberREST provides a streamlined solution for building powerful APIs to serve modern web and mobile applications.
